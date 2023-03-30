@@ -1,5 +1,5 @@
 # Computational_Algebra
-**Popular algorithms' implementation in MAPLE!**
+**Algorithms' implementation in MAPLE!**
 
   1.-**Euclides algorithm**:
     Euclid's algorithm, is an efficient method for computing the greatest common divisor (GCD) of two integers (numbers), the largest number that divides 
